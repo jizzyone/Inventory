@@ -1,29 +1,19 @@
-# another3
+## Веб-приложение для управления спортивным инвентарем, разработанное на Vue.js 3.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Функциональность
 
-## Recommended IDE Setup
+- Управление списком спортивного инвентаря
+- Добавление, редактирование и удаление товаров
+- Фильтрация по наличию (только товары с положительным количеством)
+- Работа с фотогалереями товаров
+- Валидация данных
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Технологии
 
-## Customize configuration
+- Vue.js 3
+- Vue Router
+- Tailwind CSS
+- REST API (mockapi.io)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Затраченное время: 
+4 часа
